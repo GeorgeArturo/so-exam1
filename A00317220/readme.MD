@@ -7,37 +7,34 @@ Los 5 retos que seleccione fueron los siguientes:
 
 (Todas las imagenes de funcionamiento en el pdf que se encuenta en este repositorio)
 
- ** a. Hello world:
+  a. Hello world:
   La solución a este reto es escribir el comando echo "Helo world"
   
-  ![GitHub Logo](Imagenes/Retos/R2.png)
+  ![GitHub Logo](Imagenes/Retos/R1.png)
      
-     ![][1]
-    
-
- ** b. CUrrent_working_directory
+  b. CUrrent_working_directory
      Este reto nos permite saber en que directorio estamos trabajando.
      La solución a este reto es escribir el comando pwd.
      
-     ![][2]
+     ![GitHub Logo2](Imagenes/Retos/R2.png)
      
-  **c. list_files
+  c. list_files
      El reto es listar que archivos hay en un directorio.
      La solucion a este reto es escribir el comando ls.
      
-     ![][3]
+    ![GitHub Logo3](Imagenes/Retos/R3.png)
 
- ** d. delete_files
+  d. delete_files
      El reto es borrar todos los archivos que estan ubicados en un directorio con un solo comando.
      La solución a este reto es escribir el comando find . -delete
      
-     ![][4]
+    ![GitHub Logo4](Imagenes/Retos/R4.png)
      
-**  e. Remove_files_with_extension
+  e. Remove_files_with_extension
      El reto es borrar todos los archivos que estan ubicados en un directorio con una determinada extension.
      La solución a este reto es escribir el comando find . -name "*.Extension del archivo" -delete
      
-     ![][5]
+     ![GitHub Logo5](Imagenes/Retos/R5.png)
      
 
 **  2. Realice un script que a partir de un listado con no menos de dos direcciones ips, descargue en forma remota un libro del 
@@ -69,25 +66,25 @@ expect eof
 expect eof
 
 **Prueba de funcionamiento uno**
-![][6]
+![GitHub Logo6](Imagenes/Scripts/func1.png)
 
 **Prueba de funcionamiento dos**
-![][7]
+![GitHub Logo7](Imagenes/Scripts/func2.png)
 
 
 **3. Montar un contenedor con lxc 
   Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
   
-  ![][8]
+![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
   
 **  Para la verifcación se hicieron 2 cosas:
  ** primero se verifico que el contenedor estuviera corriendo  
  
- ![][9]
+ ![GitHub Logo9](Imagenes/Contenedor/c1.png)
   
   Luego que dentro de este se pudieran ingresar comandos.
  
- ![][10]
+ ![GitHub Logo10](Imagenes/Contenedor/c2.png)
 
 
 
@@ -95,16 +92,11 @@ expect eof
 ### referencias :  
 
 **Url de mi github : https://github.com/GeorgeArturo/so-exam1
-**
-    [1]: R1.png
-    [2]: Imagenes/Retos/R2.png
-    [3]: Imagenes/Retos/R3.png
-    [4]: Imagenes/Retos/R4.png
-    [5]: Imagenes/Retos/R5.png
-    [6]: Imagenes/Scripts/func1.png
-    [7]: Imagenes/Scripts/func2.png
-    [8]: Imagenes/Contenedor/instalacion1.png
-    [9]: Imagenes/Contenedor/c1.png
-    [10]: Imagenes/Contenedor/c2.png
+
+   
+    
+   
+   
+   
     
       
