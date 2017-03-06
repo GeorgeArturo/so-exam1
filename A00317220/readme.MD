@@ -79,7 +79,7 @@ expect eof
      **3. Montar un contenedor con lxc 
       Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
   
-  ![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
+![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
   
   **  Para la verifcación se hicieron 2 cosas:
   ** primero se verifico que el contenedor estuviera corriendo  
