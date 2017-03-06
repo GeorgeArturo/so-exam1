@@ -2,7 +2,7 @@
 Jorge Arturo Hernandez MUñoz
 A00317220
 
-1. Resolver 5 retos de la pagina https://cmdchallenge.com
+**1. Resolver 5 retos de la pagina https://cmdchallenge.com
 Los 5 retos que seleccione fueron los siguientes:
 
 (Todas las imagenes de funcionamiento en el pdf que se encuenta en este repositorio)
@@ -34,7 +34,7 @@ Los 5 retos que seleccione fueron los siguientes:
      ![][5]
      
 
-  2. Realice un script que a partir de un listado con no menos de dos direcciones ips, descargue en forma remota un libro del 
+**  2. Realice un script que a partir de un listado con no menos de dos direcciones ips, descargue en forma remota un libro del 
      proyecto www.gutenberg.org
 
      Script:
@@ -69,13 +69,13 @@ expect eof
 ![][7]
 
 
-3. Montar un contenedor con lxc 
+**3. Montar un contenedor con lxc 
   Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
   
   ![][8]
   
-  Para la verifcación se hicieron 2 cosas:
-  primero se verifico que el contenedor estuviera corriendo  
+**  Para la verifcación se hicieron 2 cosas:
+ ** primero se verifico que el contenedor estuviera corriendo  
  
  ![][9]
   
@@ -88,12 +88,7 @@ expect eof
 
 ### referencias :  
 
-*Url de mi github : https://github.com/GeorgeArturo/so-exam1
-
-
-
-
-
+**Url de mi github : https://github.com/GeorgeArturo/so-exam1
     [1]: Imagenes/Retos/R1.png
     [2]: Imagenes/Retos/R2.png
     [3]: Imagenes/Retos/R3.png
