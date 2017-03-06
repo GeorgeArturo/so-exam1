@@ -16,25 +16,25 @@ Los 5 retos que seleccione fueron los siguientes:
      Este reto nos permite saber en que directorio estamos trabajando.
      La solución a este reto es escribir el comando pwd.
      
-     ![GitHub Logo2](Imagenes/Retos/R2.png)
+   ![GitHub Logo2](Imagenes/Retos/R2.png)
      
   c. list_files
      El reto es listar que archivos hay en un directorio.
      La solucion a este reto es escribir el comando ls.
      
-    ![GitHub Logo3](Imagenes/Retos/R3.png)
+   ![GitHub Logo3](Imagenes/Retos/R3.png)
 
   d. delete_files
      El reto es borrar todos los archivos que estan ubicados en un directorio con un solo comando.
      La solución a este reto es escribir el comando find . -delete
      
-    ![GitHub Logo4](Imagenes/Retos/R4.png)
+   ![GitHub Logo4](Imagenes/Retos/R4.png)
      
   e. Remove_files_with_extension
      El reto es borrar todos los archivos que estan ubicados en un directorio con una determinada extension.
      La solución a este reto es escribir el comando find . -name "*.Extension del archivo" -delete
      
-     ![GitHub Logo5](Imagenes/Retos/R5.png)
+   ![GitHub Logo5](Imagenes/Retos/R5.png)
      
 
 **  2. Realice un script que a partir de un listado con no menos de dos direcciones ips, descargue en forma remota un libro del 
@@ -65,22 +65,22 @@ expect eof
 
 expect eof
 
-**Prueba de funcionamiento uno**
+  **Prueba de funcionamiento uno**
 ![GitHub Logo6](Imagenes/Scripts/func1.png)
 
-**Prueba de funcionamiento dos**
+  **Prueba de funcionamiento dos**
 ![GitHub Logo7](Imagenes/Scripts/func2.png)
 
 
-**3. Montar un contenedor con lxc 
+  **3. Montar un contenedor con lxc 
   Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
   
-![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
+  ![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
   
-**  Para la verifcación se hicieron 2 cosas:
- ** primero se verifico que el contenedor estuviera corriendo  
+  **  Para la verifcación se hicieron 2 cosas:
+  ** primero se verifico que el contenedor estuviera corriendo  
  
- ![GitHub Logo9](Imagenes/Contenedor/c1.png)
+![GitHub Logo9](Imagenes/Contenedor/c1.png)
   
   Luego que dentro de este se pudieran ingresar comandos.
  
