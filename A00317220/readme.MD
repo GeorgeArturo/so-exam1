@@ -67,7 +67,6 @@ expect eof
 **Prueba de funcionamiento dos**
 ![][7]
 
-##Todas las imagenes(pruebas de ejecución estan en el pdf que esta en este repositorio)
 
 3. Montar un contenedor con lxc 
   Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
@@ -83,15 +82,15 @@ expect eof
 Url de mi github : https://github.com/GeorgeArturo/so-exam1
 
     
-    [1]: Imagenes/Retos/R1.png
-    [2]: Imagenes/Retos/R2.png
-    [3]: Imagenes/Retos/R3.png
-    [4]: Imagenes/Retos/R4.png
-    [5]: Imagenes/Retos/R5.png
-    [6]: Imagenes/Scripts/func1.png
-    [7]: Imagenes/Scripts/func2.png
-    [8]: Imagenes/Contenedor/instalacion1.png
-    [9]: Imagenes/Contenedor/c1.png
-    [10]: Imagenes/Contenedor/c2.png
+    [1]:Imagenes/Retos/R1.png
+    [2]:Imagenes/Retos/R2.png
+    [3]:Imagenes/Retos/R3.png
+    [4]:Imagenes/Retos/R4.png
+    [5]:Imagenes/Retos/R5.png
+    [6]:Imagenes/Scripts/func1.png
+    [7]:Imagenes/Scripts/func2.png
+    [8]:Imagenes/Contenedor/instalacion1.png
+    [9]:Imagenes/Contenedor/c1.png
+    [10]:Imagenes/Contenedor/c2.png
     
       
