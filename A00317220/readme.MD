@@ -9,23 +9,29 @@ Los 5 retos que seleccione fueron los siguientes:
 
   a. Hello world:
      La solución a este reto es escribir el comando echo "Helo world"
+     ![][1]
 
   b. CUrrent_working_directory
      Este reto nos permite saber en que directorio estamos trabajando.
      La solución a este reto es escribir el comando pwd.
-
+     ![][2]
+     
   c. list_files
      El reto es listar que archivos hay en un directorio.
      La solucion a este reto es escribir el comando ls.
+     ![][3]
 
   d. delete_files
      El reto es borrar todos los archivos que estan ubicados en un directorio con un solo comando.
      La solución a este reto es escribir el comando find . -delete
-
+     ![][4]
+     
   e. Remove_files_with_extension
      El reto es borrar todos los archivos que estan ubicados en un directorio con una determinada extension.
      La solución a este reto es escribir el comando find . -name "*.Extension del archivo" -delete
-
+     
+     ![][5]
+     
 
   2. Realice un script que a partir de un listado con no menos de dos direcciones ips, descargue en forma remota un libro del 
      proyecto www.gutenberg.org
@@ -55,18 +61,37 @@ expect eof
 
 expect eof
 
+**Prueba de funcionamiento uno**
+![][6]
+
+**Prueba de funcionamiento dos**
+![][7]
 
 ##Todas las imagenes(pruebas de ejecución estan en el pdf que esta en este repositorio)
 
 3. Montar un contenedor con lxc 
-  Lo primero que se hizo fue instalar lxc.
-  ##(los comandos con lo que se instalo y se creo esta en imagenes en el pdf de este repositorio)
-  para comprobar que el contenedor funcionaba se hicieron 2 cosas:
-  primero se verifico que el contenedor estuviera corriendo y luego que dentro de este se pudieran ingresar comandos.
-  ##Todo esta más detallado en el pdf, este tiene las imagenes.
+  Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
+  ![][8]
+  
+  Para la verifcación se hicieron 2 cosas:
+  primero se verifico que el contenedor estuviera corriendo  
+  ![][9]
+  
+  Luego que dentro de este se pudieran ingresar comandos.
+  ![][10]
 
 Url de mi github : https://github.com/GeorgeArturo/so-exam1
 
     
+    [1]: Imagenes/Retos/R1.png
+    [2]: Imagenes/Retos/R2.png
+    [3]: Imagenes/Retos/R3.png
+    [4]: Imagenes/Retos/R4.png
+    [5]: Imagenes/Retos/R5.png
+    [6]: Imagenes/Scripts/func1.png
+    [7]: Imagenes/Scripts/func2.png
+    [8]: Imagenes/Contenedor/instalacion1.png
+    [9]: Imagenes/Contenedor/c1.png
+    [10]: Imagenes/Contenedor/c2.png
     
       
