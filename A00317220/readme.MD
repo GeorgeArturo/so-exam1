@@ -69,11 +69,11 @@ expect eof
 
     **Prueba de funcionamiento uno**
     
-![GitHub Logo6](Imagenes/Scripts/func1.png)
+![GitHub Logo6](Imagenes/Script/func1.png)
 
      **Prueba de funcionamiento dos**
      
-![GitHub Logo7](Imagenes/Scripts/func2.png)
+![GitHub Logo7](Imagenes/Script/func2.png)
 
 
      **3. Montar un contenedor con lxc 
