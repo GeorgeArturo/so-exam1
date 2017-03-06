@@ -8,7 +8,7 @@ Los 5 retos que seleccione fueron los siguientes:
 (Todas las imagenes de funcionamiento en el pdf que se encuenta en este repositorio)
 
   a. Hello world:
-  La solución a este reto es escribir el comando echo "Helo world"
+  La solución a este reto es escribir el comando echo "Hello world"
   
   ![GitHub Logo](Imagenes/Retos/R1.png)
      
