@@ -8,7 +8,7 @@ Los 5 retos que seleccione fueron los siguientes:
 (Todas las imagenes de funcionamiento en el pdf que se encuenta en este repositorio)
 
  ** a. Hello world:
-   **  La solución a este reto es escribir el comando echo "Helo world"
+  La solución a este reto es escribir el comando echo "Helo world"
      
      ![][1]
     
@@ -93,6 +93,7 @@ expect eof
 ### referencias :  
 
 **Url de mi github : https://github.com/GeorgeArturo/so-exam1
+**
     [1]: Imagenes/Retos/R1.png
     [2]: Imagenes/Retos/R2.png
     [3]: Imagenes/Retos/R3.png
