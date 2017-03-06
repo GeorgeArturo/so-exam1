@@ -10,6 +10,7 @@ Los 5 retos que seleccione fueron los siguientes:
   a. Hello world:
      La solución a este reto es escribir el comando echo "Helo world"
      ![][1]
+    
 
   b. CUrrent_working_directory
      Este reto nos permite saber en que directorio estamos trabajando.
@@ -85,7 +86,7 @@ expect eof
 *Url de mi github : https://github.com/GeorgeArturo/so-exam1
 
     
-    [1]: Imagenes/R1.png
+    [1]: R1.png
     [2]: Imagenes/Retos/R2.png
     [3]: Imagenes/Retos/R3.png
     [4]: Imagenes/Retos/R4.png
