@@ -65,15 +65,15 @@ expect eof
 
 expect eof
 
-  **Prueba de funcionamiento uno**
+    **Prueba de funcionamiento uno**
 ![GitHub Logo6](Imagenes/Scripts/func1.png)
 
-  **Prueba de funcionamiento dos**
+     **Prueba de funcionamiento dos**
 ![GitHub Logo7](Imagenes/Scripts/func2.png)
 
 
-  **3. Montar un contenedor con lxc 
-  Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
+     **3. Montar un contenedor con lxc 
+      Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
   
   ![GitHub Logo8](Imagenes/Contenedor/instalacion1.png)
   
