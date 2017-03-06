@@ -85,7 +85,7 @@ expect eof
 *Url de mi github : https://github.com/GeorgeArturo/so-exam1
 
     
-    [1]: Imagenes/Retos/R1.png
+    [1]: Imagenes/R1.png
     [2]: Imagenes/Retos/R2.png
     [3]: Imagenes/Retos/R3.png
     [4]: Imagenes/Retos/R4.png
