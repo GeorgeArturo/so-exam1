@@ -70,16 +70,19 @@ expect eof
 
 3. Montar un contenedor con lxc 
   Lo primero que se hizo fue instalar lxc y todas las librerias necesarias.
+  
   ![][8]
   
   Para la verifcación se hicieron 2 cosas:
   primero se verifico que el contenedor estuviera corriendo  
-  ![][9]
+ 
+ ![][9]
   
   Luego que dentro de este se pudieran ingresar comandos.
-  ![][10]
+ 
+ ![][10]
 
-Url de mi github : https://github.com/GeorgeArturo/so-exam1
+*Url de mi github : https://github.com/GeorgeArturo/so-exam1
 
     
     [1]: Imagenes/Retos/R1.png
