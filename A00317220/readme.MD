@@ -9,6 +9,8 @@ Los 5 retos que seleccione fueron los siguientes:
 
  ** a. Hello world:
   La solución a este reto es escribir el comando echo "Helo world"
+  
+  ![GitHub Logo](Imagenes/Retos/R2.png)
      
      ![][1]
     
