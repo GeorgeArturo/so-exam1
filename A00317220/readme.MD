@@ -66,9 +66,11 @@ expect eof
 expect eof
 
     **Prueba de funcionamiento uno**
+    
 ![GitHub Logo6](Imagenes/Scripts/func1.png)
 
      **Prueba de funcionamiento dos**
+     
 ![GitHub Logo7](Imagenes/Scripts/func2.png)
 
 
