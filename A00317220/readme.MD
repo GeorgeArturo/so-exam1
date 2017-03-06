@@ -7,27 +7,31 @@ Los 5 retos que seleccione fueron los siguientes:
 
 (Todas las imagenes de funcionamiento en el pdf que se encuenta en este repositorio)
 
-  a. Hello world:
-     La solución a este reto es escribir el comando echo "Helo world"
+ ** a. Hello world:
+   **  La solución a este reto es escribir el comando echo "Helo world"
+     
      ![][1]
     
 
-  b. CUrrent_working_directory
+ ** b. CUrrent_working_directory
      Este reto nos permite saber en que directorio estamos trabajando.
      La solución a este reto es escribir el comando pwd.
+     
      ![][2]
      
-  c. list_files
+  **c. list_files
      El reto es listar que archivos hay en un directorio.
      La solucion a este reto es escribir el comando ls.
+     
      ![][3]
 
-  d. delete_files
+ ** d. delete_files
      El reto es borrar todos los archivos que estan ubicados en un directorio con un solo comando.
      La solución a este reto es escribir el comando find . -delete
+     
      ![][4]
      
-  e. Remove_files_with_extension
+**  e. Remove_files_with_extension
      El reto es borrar todos los archivos que estan ubicados en un directorio con una determinada extension.
      La solución a este reto es escribir el comando find . -name "*.Extension del archivo" -delete
      
